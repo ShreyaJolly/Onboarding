@@ -191,7 +191,7 @@ We are using GitHub a lot for a lot of stuff, and therefore you'll need to becom
 - Mindhunter
 - Fractured
 - Joker
-- ...
+- Harry Potter
 
 
 ## 📆 Day 2: Get familiar with the workflow
